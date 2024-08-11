@@ -29,7 +29,9 @@
   ### My stats...
   -------
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Dorian-Mayamba&theme=dark)](https://git.io/streak-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dorian-Mayamba&show_icons=true&theme=dark)
+  <div>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dorian-Mayamba&show_icons=true&theme=dark)
+  </div>
   
   
 
