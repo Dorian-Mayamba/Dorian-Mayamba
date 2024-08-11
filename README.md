@@ -12,7 +12,7 @@
   
 - 🤔 I’m currently looking for a job in Software engineering 
 
-🖥️ I developed several full stack web applications.
+🖥️ I developed several full-stack web applications.
   * Doctor Appointment Management
   * User Management
   * Car Management
@@ -29,6 +29,8 @@
   ### My stats...
   -------
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Dorian-Mayamba&theme=dark)](https://git.io/streak-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dorian-Mayamba&show_icons=true&theme=dark)
+  
   
 
 <!--
