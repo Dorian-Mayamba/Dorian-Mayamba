@@ -19,7 +19,7 @@
 
   🪴I am currently working on a sales dashboard which allows the administrators to keep track of the sales of each product of a company.
 
-  [![### My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,react,cs,cpp,c,bootstrap,django,dotnet,eclipse,express,flask,firebase,git,idea,js,jquery,jenkins,kotlin,laravel,maven,gradle,docker,nestjs,nextjs,php,phpstorm,linux,MySQL,sublime,v,vite,vscode&theme=light)](https://skillicons.dev)
+  [![### My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,react,cs,cpp,c,bootstrap,django,dotnet,eclipse,express,flask,firebase,git,idea,js,jquery,jenkins,kotlin,laravel,maven,gradle,docker,nestjs,nextjs,php,phpstorm,linux,mysql,sublime,v,vite,vscode&theme=light)](https://skillicons.dev)
   
 
 <!--
